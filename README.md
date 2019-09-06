@@ -1,4 +1,27 @@
-# vue-project
+# 使用vue全家桶做的一个模仿微信小程序 华莱士的项目
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  vue 注释
+#  vue-project
 
 ## Project setup
 ```
